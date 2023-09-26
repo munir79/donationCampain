@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-around;
+margin-top: 30px;
+}
+/* .header Link{
+    text-decoration: none;
+} */
+.header a{
+    text-decoration: none;
+    padding: 15px;
+    font-weight: 600;
+    font-size: medium;
+}
+.header a:hover{
+    text-decoration: underline;
+    color: red;
+}
+.link{
+    margin-top: 20px;
+    
+}
